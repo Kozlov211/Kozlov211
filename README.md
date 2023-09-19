@@ -2,5 +2,5 @@
 
 Key skills: C++, Qt, OOP, STL, Boost
 
-My [LeetCode](https://leetcode.com/kozlov_211/)
+My link to [LeetCode](https://leetcode.com/kozlov_211/)
 
